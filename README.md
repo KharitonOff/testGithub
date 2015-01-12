@@ -19,3 +19,5 @@ kharitonoff changes as collaborator of pomidoro in his fork
 do more changes for the next pull request
 
 change 10
+
+change 11 from KharitonOff
