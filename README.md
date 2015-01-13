@@ -16,3 +16,10 @@ change 8
 change 9
 
 kharitonoff changes as collaborator of pomidoro in his fork
+do more changes for the next pull request
+
+change 10
+
+change 11 from KharitonOff
+change 12 from KharitonOff
+change 13 from KharitonOff
